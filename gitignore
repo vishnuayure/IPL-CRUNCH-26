@@ -1,0 +1,18 @@
+# Dataset (too large for GitHub)
+*.csv
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
