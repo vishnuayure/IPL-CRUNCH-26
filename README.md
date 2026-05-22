@@ -112,4 +112,3 @@ Charts will be saved as PNG files in the same directory.
 
 ---
 
-*Built for IPL CRUNCH '26 on Wooble · May 2026*
